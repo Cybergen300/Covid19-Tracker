@@ -33,7 +33,7 @@ USA situation
 
 Covid19 vaccination dashboard: 
 
-![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker3.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_tracker3.png)
 
 
 
