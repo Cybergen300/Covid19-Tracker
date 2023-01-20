@@ -30,19 +30,19 @@ Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situation as 
 
 ### Worldwide situation
 
-![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Picture/Covid19_Tracker1.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Pictures/Covid19_Tracker1.png)
 
 ### Country situation (USA)
 
-![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Picture/Covid19_Tracker2.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Pictures/Covid19_Tracker2.png)
 
 ### Covid19 vaccination dashboard 
 
-![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Picture/Covid19_tracker3.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Pictures/Covid19_tracker3.png)
 
 ### Covid19 vaccination dashboard (USA)  
 
-![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Picture/Covid19_tracker4.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Pictures/Covid19_tracker4.png)
 
 
 
