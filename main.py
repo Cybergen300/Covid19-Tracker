@@ -11,7 +11,7 @@ Covid Map data preprocessing
 
 
 import os 
-path = "/Users/goudurix/Desktop/tutos_Data/Covid_Map/"
+path = "YOUR PATH"
 os.chdir(path)
 
 from functions import * 
@@ -126,7 +126,7 @@ Vaccine = confirmed.merge(vaccine, on=['Country/Region', 'date'])
 
 #Creation of the excel file 
 
-link= "/Users/goudurix/Desktop/tutos_Data/Covid_Map/DataSet.xlsx"
+link= "YOUR PATH/DataSet.xlsx"
 save_excel(link, Cases, Vaccine, population)
 
 
