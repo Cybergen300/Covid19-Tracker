@@ -21,13 +21,19 @@ Step3: Open the Covid19_Tracker tableau file and update the data source with you
 
 Step4: Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situation as well as the current global vaccination status. 
 
-Covid19 pandemic situation dashboard: 
+Covid19 pandemic situation dashboard
+
+Worldwide situation
 
 ![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker1.png)
 
+USA situation
+
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker2.png)
+
 Covid19 vaccination dashboard: 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker3.png)
 
 
 
