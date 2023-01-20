@@ -2,7 +2,7 @@
 
 ## What is the Covid19 Tracker 
 
-The Covid19 Tracker presents an interactive dashboard enabling users to get a quick overview of the the overall pandemic situation in each country around the world as well through the leveraging of Tableau. 
+The Covid19 Tracker presents an interactive dashboard enabling users to get a quick overview of the the overall pandemic situation in each country around the world through the leveraging of Tableau. 
 
 ## Data sources
 
