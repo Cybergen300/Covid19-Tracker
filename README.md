@@ -23,7 +23,7 @@ Step4: Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situat
 
 Covid19 pandemic situation dashboard: 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker1.png)
 
 Covid19 vaccination dashboard: 
 
