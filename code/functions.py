@@ -3,7 +3,7 @@
 """
 Created on Mon Jan 16 23:33:22 2023
 
-@author: goudurix
+@author: cybergenLab
 
 
 functions library 
@@ -77,7 +77,6 @@ def save_excel(link, df1, df2, df3):
 if __name__ == "__main__":
 
     url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
-    link = '/Users/goudurix/Desktop/tutos_Data/Covid_Map/Test11.xlsx'    
     
 #   get_data test
     test = get_data(url)
