@@ -32,15 +32,17 @@ Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situation as 
 
 ![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker1.png)
 
-### USA situation
+### Country situation (USA)
 
 ![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_Tracker2.png)
 
-### Covid19 vaccination dashboard: 
+### Covid19 vaccination dashboard 
 
 ![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_tracker3.png)
 
+### Covid19 vaccination dashboard (USA)  
 
+![alt text](https://github.com/Cybergen300/Covid19-Tracker/blob/main/Covid19_tracker4.png)
 
 
 
