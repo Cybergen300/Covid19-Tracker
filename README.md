@@ -26,7 +26,7 @@ Open the Covid19_Tracker tableau file and update the data source with your newly
 ### Step4: 
 Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situation as well as the current global vaccination status. 
 
-## Covid19 pandemic situation dashboard screenshot
+## Covid19 tracker dashboards
 
 ### Worldwide situation
 
