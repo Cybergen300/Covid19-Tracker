@@ -21,7 +21,7 @@ Run the main.py file
 During this step, the script is going to download the latest data available in the CSSE Covid19 repo and preprocess it before saving it as an excel file called Dataset.xlsx
 
 ### Step3: 
-Open the Covid19_Tracker tableau file and update the data source with your newly created Dataset.xlsx 
+Open the Covid19_Tracker tableau file and update the data source with your newly created DataSet.xlsx 
 
 ### Step4: 
 Enjoy your Covid19 Tracker showcasing the current Covid19 pandemic situation as well as the current global vaccination status. 
